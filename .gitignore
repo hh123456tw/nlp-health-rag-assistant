@@ -4,3 +4,4 @@ __pycache__/
 checkpoint-*/
 wandb/
 .ipynb_checkpoints/
+chat_history.json
